@@ -1,6 +1,3 @@
-# Walmart_BC_Credit_Comparison_MC
-MFIN2250 Fixed Income Project: Comparing a Boston College-backed bond with a similar Walmart-backed bond from a quantitative investment lens.
-
 # BC vs. Walmart: A 30-Year Bond Credit Analysis
 
 Quantitative credit analysis comparing a hypothetical $200mm investment in a 30-year senior bond issued by Boston College versus one issued by Walmart. Both bonds priced at par with a 5% coupon, non-callable, taxable, senior, with rights to all assets. Hold-to-maturity mandate.
